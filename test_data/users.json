@@ -1,0 +1,12 @@
+{
+    "valid_user": {
+        "name": "Arun",
+        "email": "arun.test@example.com",
+        "age": 25
+    },
+    "updated_user": {
+        "name": "Updated Arun",
+        "email": "updated.arun@example.com",
+        "age": 30
+    }
+}
